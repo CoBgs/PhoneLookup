@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Lookup people in SN user table</description>
+        <device_type>browser</device_type>
+        <hint>Lookup people in SN user table</hint>
+        <name/>
+        <order/>
+        <roles>itil</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>acsimpson</sys_created_by>
+        <sys_created_on>2020-04-17 18:21:41</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a110e2e4db585450007678fdaa96193c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Phone Lookup</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Phone Lookup" source="x_uno98_phone_look">f2afdaa4db585450007678fdaa96196a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Phone Lookup">f2afdaa4db585450007678fdaa96196a</sys_scope>
+        <sys_update_name>sys_app_application_a110e2e4db585450007678fdaa96193c</sys_update_name>
+        <sys_updated_by>acsimpson</sys_updated_by>
+        <sys_updated_on>2020-04-17 18:21:41</sys_updated_on>
+        <title>Phone Lookup</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
